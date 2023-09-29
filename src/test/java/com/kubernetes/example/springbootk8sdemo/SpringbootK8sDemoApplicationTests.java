@@ -15,7 +15,7 @@ class SpringbootK8sDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test Case Executing...");
-		logger.info("Test Case Executing Second push...")
+		logger.info("Test Case Executing Second push...");
 		assertEquals(true, true);
 	}
 
